@@ -1,0 +1,16 @@
+.container{
+}
+.row{
+
+}
+body{
+    padding:100px,50px,50px,50px;
+
+}
+/* buttons */
+#equals{
+height: 100px;
+}
+#times{
+    height:60px;
+}
