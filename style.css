@@ -18,49 +18,11 @@ img{
 /* buttons */
 #equals{
 height: 100px;
+width: 50px;
 margin-left: 0%;
-}
-#times{
-    height:60px;
-    margin-left: 0%;
-    margin-right: 0%;
-}
-#zero{
 
 }
-#percentage{
-
-}
-#three{
-
-}
-#two{
-
-}
-#one{
-
-}
-#plus{
-
-}
-#seven{
-
-}
-#six{
-
-}
-#five{
-
-}
-#minus{
-
-}
-#times{
-
-}
-#divide{
-
-}
-#clear{
-
+#otherbtn{
+    height: 50px;
+    width: 100px;
 }
