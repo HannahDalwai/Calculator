@@ -7,11 +7,60 @@ body{
     padding:100px,50px,50px,50px;
 
 }
+#output{
+ border-color: black;
+ border-width: 500px;
+ height: 200px;
+}
+img{
+    height: 20px;
+}
 /* buttons */
 #equals{
 height: 100px;
+margin-left: 0%;
 }
 #times{
     height:60px;
-    
+    margin-left: 0%;
+    margin-right: 0%;
+}
+#zero{
+
+}
+#percentage{
+
+}
+#three{
+
+}
+#two{
+
+}
+#one{
+
+}
+#plus{
+
+}
+#seven{
+
+}
+#six{
+
+}
+#five{
+
+}
+#minus{
+
+}
+#times{
+
+}
+#divide{
+
+}
+#clear{
+
 }
