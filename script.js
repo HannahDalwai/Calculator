@@ -1,13 +1,22 @@
 let sum = "";
-function addToSum(Operator){
+
+function addToSum(operator){
     sum = sum + operator;
     console.log(sum);
     document.getElementById("output").innertext = sum;
 }
+
 function evaluateSum(){
-    sum = eval(sum)
+    sum = eval(sum);
     document.getElementById("output").innertext = sum;
 }
-function clearSum(){
 
+function clearSum(){
+sum = "";
+document.getElementById("output").innertext = sum;
+}
+
+function deleteChar(){
+    sum = sum.slice(0, -1);
+    document.getElementById("output").innertext = sum;
 }
